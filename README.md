@@ -1,12 +1,13 @@
 # federal-data-platform-portfolio
 
+
 This repository showcases my hands-on experience in cloud architecture, data engineering, monitoring, and automation for a Solutions Architect / Data Engineer role supporting a federal agency. It combines AWS infrastructure labs, Python/SQL data workflows, observability setups, and application projects.
 
 ---
 
 ## About Me
 
-I am a Junior Cloud / Data Engineer with experience designing and operating AWS-based environments (EC2, VPC, S3, IAM, RDS, Lambda, CloudWatch) plus SQL- and Python-driven data analysis and reporting. I have worked with NIST-aligned cloud risk management training, data quality monitoring in production environments, and full‑stack e‑commerce projects.
+I am a Cloud / Data Engineer with experience designing and operating AWS-based environments (EC2, VPC, S3, IAM, RDS, Lambda, CloudWatch) plus SQL- and Python-driven data analysis and reporting. I have worked with NIST-aligned cloud risk management training, data quality monitoring in production environments, and full‑stack e‑commerce projects.
 
 This portfolio highlights how I approach:
 
@@ -56,8 +57,7 @@ Monitoring, logging, and automation:
 ### `05-applications-and-ml/`
 
 Application and analytics projects that plug into a data platform:
-
-- **Data Science Ecosystem** – Jupyter-based environment for data wrangling, analysis, and basic modeling.  
+  
 - **Fruta e Pan (E‑commerce)** – Full‑stack e‑commerce site demonstrating product, cart, and order flows.  
 - **Burger My Bun (E‑commerce)** – Restaurant ordering app, suitable as a front end to a cloud-hosted API and database.  
 - **Skillup Burger Shop** – Practice burger shop app reinforcing component-based design and user flows.
