@@ -13,6 +13,8 @@ Cloud engineering work:
 - AWS infrastructure concepts (VPC, subnets, security groups, EC2, S3, RDS, IAM).
 - Architecture notes describing a secure two‑tier VPC layout with public and private subnets.
 - Monitoring and alerting ideas using CloudWatch metrics and alarms.
+- For visual proof of these labs, see `assets/AWS-labs-screenshots.md`.
+
 
 See: `01-cloud/architecture-notes.md`
 
